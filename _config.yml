@@ -1,14 +1,3 @@
-color:
-  saturation: 0.6829787
-  brandStrength: 0.8071597
-  rhythmicContrast: 0.5234042
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.7148936
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2553191
 typography_spectrum: 0.3617021
+color:
+  saturation: 0.6829787
+  brandStrength: 0.8071597
+  rhythmicContrast: 0.5234042
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.7148936
+layout_spectrum: 0.5829787
 name: 'Onponics '
