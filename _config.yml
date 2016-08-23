@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3617021
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.5297872
 color:
   saturation: 0.6829787
-  brandStrength: 0.8071597
-  rhythmicContrast: 0.5234042
+  brandStrength: 0
+  lightness: 0.7148936
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  lightness: 0.7148936
-layout_spectrum: 0.5829787
+  rhythmicContrast: 0.5234042
+layout_spectrum: 0.7446808
 name: 'Onponics '
