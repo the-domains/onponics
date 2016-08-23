@@ -1,8 +1,5 @@
-layout_spectrum: 0.2553191
-typography_spectrum: 0.3617021
 color:
   saturation: 0.6829787
-  lightness: 0.7148936
   brandStrength: 0.8071597
   rhythmicContrast: 0.5234042
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  lightness: 0.7148936
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2553191
+typography_spectrum: 0.3617021
 name: 'Onponics '
